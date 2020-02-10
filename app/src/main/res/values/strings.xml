@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lab2 Text App</string>
+    <string name="change_message">Change Message</string>
+    <string name="submit">Submit</string>
+    <string name="name_hint">Enter your name</string>
+    <string name="greeting">Howdy!</string>
+    <string name="greetWName">Howdy %1$s!</string>
+    <string-array name="text_array">
+        <item>This could be a question</item>
+        <item>This could be another question</item>
+        <item>Anther one</item>
+        <item>This could be another one as well</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>
